@@ -1,0 +1,17 @@
+{
+  "name": "next-react-portfolio",
+  "version": "1.0.0",
+  "description": "sam portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "sam sadot",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
